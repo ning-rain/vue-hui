@@ -4,7 +4,8 @@
   <div>
     <div>
       <span>来自于: </span>
-      <!-- 下拉菜单要绑定在select上 -->
+      <!-- 下拉菜单要绑定在select上
+       -->
       <select v-model="adress">
         <option value="北京市">北京</option>
         <option value="南京市">南京</option>

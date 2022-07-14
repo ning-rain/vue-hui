@@ -7,7 +7,7 @@
       <img src="./assets/03.jpg" alt="" @mouseenter="fn(3)" @click="fn1" />
     </div>
     <div class="show">
-      <h3>图片预览区</h3>
+      <h3>图片预区</h3>
       <img :src="url" alt="" sty le="width: 600px; height: auto" />
     </div>
     <div></div>

@@ -6,6 +6,7 @@
      语法: v-on:事件名="methods里函数名"
      语法: v-on:事件名="methods里函数名(值)"
      语法: @事件名="methods里函数名"
+
      -->
     <button @click="btn">+1</button>
     <button @click="btn1">+1</button>

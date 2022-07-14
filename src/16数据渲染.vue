@@ -21,7 +21,7 @@ export default {
   created () { },
   data () {
     return {
-      arr: ['小明', '小欢欢', '大黄'],
+      arr: ['小明', '小，欢欢', '大黄'],
       stuArr: [
         {
           id: 1001,

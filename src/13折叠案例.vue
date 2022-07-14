@@ -58,7 +58,6 @@ body {
       padding: 0 1em;
     }
     .btn {
-      /* 鼠标改成手的形状 */
       cursor: pointer;
     }
   }

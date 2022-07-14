@@ -6,7 +6,7 @@
 </template>
 
 <script>
-// 需求：str 变量渲染到页面上
+//    需求：str 变量渲染到页面上
 export default {
   data () {
     return {

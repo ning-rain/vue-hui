@@ -1,7 +1,8 @@
 <template>
   <div>
     <!-- 2. 值 -> 标签原生属性上 -->
-    <!-- 语法: v-bind:原生属性名="vue变量" -->
+    <!-- 语法: v-bind:原生属性名="vue变量"
+     -->
     <!-- 语法: :原生属性名="vue变量" -->
     <a :href="baeeUrl">点击去百度</a>
     <img :src="Url" alt="" />
