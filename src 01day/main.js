@@ -5,7 +5,6 @@ import store from './store'
 import 'bootstrap/dist/css/bootstrap.css'
 
 Vue.config.productionTip = false
-Vue.filter('tolow', (val) => { return val.toLowerCase() })
 new Vue({
   router,
   store,
